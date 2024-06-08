@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "445786694458",
+    "project_id": "switch-ev",
+    "storage_bucket": "switch-ev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445786694458:android:69a10b428bd5132ed0e603",
+        "android_client_info": {
+          "package_name": "com.example.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445786694458-dcmjgommq3pckpucalqa6afbgivnd7go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.customer",
+            "certificate_hash": "4d0acdf30f3aa5820ac58f2af6c02403f1c08f1c"
+          }
+        },
+        {
+          "client_id": "445786694458-jqb19akc5ktrdbejmm21kg2k5lmao3vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPOcPWQs7F2Fxc2lmKnXtplNeT_zLORW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445786694458-jqb19akc5ktrdbejmm21kg2k5lmao3vs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445786694458-lc3e3lekdkqehenv009mecv14uc8saem.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
